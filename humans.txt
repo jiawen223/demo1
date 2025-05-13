@@ -1,1 +1,2 @@
-制作人:黎佳文
+/* CONTRIBUTORS */
+- Jiawen (Bug Fixes)
